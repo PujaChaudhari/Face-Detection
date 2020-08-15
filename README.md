@@ -1,0 +1,2 @@
+# Real time Face-Detection
+This project was done with this fantastic “Open Source Computer Vision Library”, the OpenCV.OpenCV was designed for computational efficiency and with a strong focus on real-time applications. So, it’s perfect for real-time face recognition using a camera.he most common way to detect a face (or any objects), is using the “Haar Cascade classifier. It is a machine learning based approach where a cascade function is trained from a lot of positive and negative images. It is then used to detect objects in other images.
